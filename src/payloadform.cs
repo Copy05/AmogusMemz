@@ -1,4 +1,4 @@
-﻿/*
+/*
 * (c) Copyright Copy 2021
 *
 * AmogusMemz.exe Source code
